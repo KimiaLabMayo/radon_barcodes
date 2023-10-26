@@ -9,7 +9,7 @@ Usage: ```function barcode = extract RBC(IMG, nrows, ncols, numRays, showRBC)```
 Implemented as introduced and described in the paper.
 ### Useful Links
 - [Paper](https://arxiv.org/abs/1505.05212)
-- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/)
+- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/)
 ### Disclaimer
 Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
 
